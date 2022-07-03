@@ -1,0 +1,425 @@
+fileFormatVersion: 2
+guid: f35c0a8f82fb501409d1976e76fc4de5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1706613613189986830
+    second: marco_stand_1
+  - first:
+      213: 6432433382325394028
+    second: marco_stand_2
+  - first:
+      213: 7407149192922087586
+    second: marco_walk_0
+  - first:
+      213: -2583741014580552169
+    second: marco_walk_1
+  - first:
+      213: 4171777246595125493
+    second: marco_walk_2
+  - first:
+      213: -384177020745502392
+    second: marco_walk_3
+  - first:
+      213: 5033256986541755510
+    second: marco_walk_4
+  - first:
+      213: -1845820376620852889
+    second: marco_walk_5
+  - first:
+      213: -143769679261578511
+    second: marco_walk_6
+  - first:
+      213: -4499039272873807367
+    second: marco_walk_7
+  - first:
+      213: 3278770007187468739
+    second: marco_walk_8
+  - first:
+      213: 6101877075347686355
+    second: marco_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: marco_stand_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 560
+        width: 31
+        height: 40
+      alignment: 9
+      pivot: {x: 0.4884479, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e8f70fd2d14aa10800000000000000
+      internalID: 1919691424312299089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco_stand_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 560
+        width: 29
+        height: 40
+      alignment: 9
+      pivot: {x: 0.4884479, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f507f8f5f3e058e0800000000000000
+      internalID: -1706613613189986830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco_stand_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 560
+        width: 30
+        height: 40
+      alignment: 9
+      pivot: {x: 0.4884479, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a9edaa418944950800000000000000
+      internalID: 6432433382325394028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco_walk_0
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 559
+        width: 30
+        height: 40
+      alignment: 9
+      pivot: {x: 0.41958186, y: 0.009950256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0417a32fa7bc660800000000000000
+      internalID: 7407149192922087586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco_walk_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 558
+        width: 28
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5053858, y: 0.010870213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e915a8c35b42cd0800000000000000
+      internalID: -2583741014580552169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco_walk_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 559
+        width: 32
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5048646, y: 0.0035147318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f01c518d4125e930800000000000000
+      internalID: 4171777246595125493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco_walk_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 559
+        width: 33
+        height: 41
+      alignment: 9
+      pivot: {x: 0.50456977, y: 0.002061001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841b89bf8012baaf0800000000000000
+      internalID: -384177020745502392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco_walk_4
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 559
+        width: 28
+        height: 41
+      alignment: 9
+      pivot: {x: 0.49461582, y: -0.003840749}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c031adf88b9d540800000000000000
+      internalID: 5033256986541755510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco_walk_5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 559
+        width: 30
+        height: 41
+      alignment: 9
+      pivot: {x: 0.3693207, y: -0.00016375286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7691654a5245266e0800000000000000
+      internalID: -1845820376620852889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco_walk_6
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 559
+        width: 33
+        height: 41
+      alignment: 9
+      pivot: {x: 0.35378566, y: -0.00016375286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa442a0d3a310ef0800000000000000
+      internalID: -143769679261578511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco_walk_7
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 559
+        width: 36
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5083779, y: 0.0035147318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f133d54e933091c0800000000000000
+      internalID: -4499039272873807367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco_walk_8
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 559
+        width: 30
+        height: 41
+      alignment: 9
+      pivot: {x: 0.500001, y: -0.003840749}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c13d9a23f7808d20800000000000000
+      internalID: 3278770007187468739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 362
+        width: 29
+        height: 49
+      alignment: 9
+      pivot: {x: 0.51724136, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3c233fed83ea450800000000000000
+      internalID: 6101877075347686355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
